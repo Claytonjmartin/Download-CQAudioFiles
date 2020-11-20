@@ -11,7 +11,7 @@ Function Download-CQAudioFiles {
         Clayton Martin
     Source: 
         https://github.com/Claytonjmartin/Download-CQAudioFiles
-    Disclamer: 
+    Disclaimer: 
         This script is provided "As Is" without any warranty of any kind. In no event shall the author be liable for any damages arising from the use of this script.
     #>
     param(
